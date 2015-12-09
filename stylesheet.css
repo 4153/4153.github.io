@@ -1,0 +1,68 @@
+h1 {
+	color: #ff7f50;
+	font-family: Garamond;
+	text-align: center;
+	font-size: 150px;
+	margin-bottom: auto;
+}
+
+h2 {
+	color: #ff7f50;
+	font-family: Garamond;
+	text-align: center;
+	font-size: 100px;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+
+#transparant{
+	background-color: white;
+	opacity: 0.77;
+	z-index: -3;
+
+}
+
+body {
+    background-image: url("leaf.jpg");
+		background-size: cover;
+	background-attachment: fixed;
+		background-repeat: no-repeat;
+}
+
+p {
+	color: 	#5c5c5c;
+	font-family: Garamond;
+	text-align: center;
+	font-size: 30px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#navbar {
+	position: fixed;
+	top:30px;
+	left:87%;
+	margin-left:-254px;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+
+li {
+	display: inline;
+	border: 2px solid #fbb89f;
+	font-family: Garamond, Arial;
+	color: #aaaaaa;
+	padding: 10px;
+	border-radius: 2px 2px;
+	background-color: #ffffff;
+}
+
+a {
+	text-decoration: none;
+	color: #aaaaaa;
+}
