@@ -4,7 +4,7 @@ h1 {
 	text-align: center;
 	font-size: 50px;
 	margin-bottom: -3;
-	
+	opacity: 1!important;
 	
 }
 
@@ -14,7 +14,7 @@ h2{
 	text-align: center;
 	font-size: 40px;
 	margin-bottom: -3;
-	
+	opacity: 1!important;
 	
 }
 
@@ -31,7 +31,7 @@ p {
 
 #transparant{
 	background-color: white;
-	opacity: 0.65;
+	opacity: 0.8;
 	z-index: -3;
 
 }
