@@ -4,6 +4,7 @@ h1 {
 	text-align: center;
 	font-size: 150px;
 	margin-bottom: auto;
+	opacity: 1!important;
 }
 
 h2 {
@@ -13,6 +14,7 @@ h2 {
 	font-size: 100px;
 	margin-bottom: auto;
 	margin-top: auto;
+	opacity: 1!important;
 }
 
 
