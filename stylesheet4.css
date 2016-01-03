@@ -1,22 +1,4 @@
-h1 {
-	color: #00dd92;
-	font-family: Garamond;
-	text-align: center;
-	font-size: 50px;
-	margin-bottom: -3;
-	opacity: 1!important;
-	
-}
 
-h2{
-	color:  #ff7f50;
-	font-family: Garamond;
-	text-align: center;
-	font-size: 40px;
-	margin-bottom: -3;
-	opacity: 1!important;
-	
-}
 
 p {
 	color: 	#000000;
@@ -43,6 +25,26 @@ p {
 	left:87%;
 	margin-left:-254px;
 	z-index: 10;
+}
+h1 {
+	opacity: 1!important;
+	color: #00dd92;
+	font-family: Garamond;
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: -3;
+	
+	
+}
+
+h2{
+	color:  #ff7f50;
+	font-family: Garamond;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: -3;
+	opacity: 1!important;
+	
 }
 
 body {
