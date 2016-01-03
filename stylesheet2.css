@@ -79,7 +79,16 @@ li {
 
 a {
 	text-decoration: none;
-	color: #aaaaaa;
+	color: #964B00;
+	-webkit-transition:0.5s;
+  transition:0.5s;
+  -moz-transition:0.5s;
+  -o-transition:0.5s;}
+}
+
+a:hover{
+	color: #00DD92;
+	
 }
 
 p{
